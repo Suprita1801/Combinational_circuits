@@ -1,0 +1,7 @@
+0.7
+2020.2
+Nov  8 2024
+22:36:55
+/home/user/Vivado/full_adder_instantiation/full_adder_instantiation.sim/sim_1/behav/xsim/glbl.v,1724786425,verilog,,,,glbl,,,,,,,,
+/home/user/Vivado/full_adder_instantiation/full_adder_instantiation.srcs/sim_1/new/full_add_tb.v,1759377121,verilog,,,,full_add_tb,,,,,,,,
+/home/user/Vivado/full_adder_instantiation/full_adder_instantiation.srcs/sources_1/new/full_add_inst.v,1759376526,verilog,,/home/user/Vivado/full_adder_instantiation/full_adder_instantiation.srcs/sim_1/new/full_add_tb.v,,full_add_inst;half_add,,,,,,,,

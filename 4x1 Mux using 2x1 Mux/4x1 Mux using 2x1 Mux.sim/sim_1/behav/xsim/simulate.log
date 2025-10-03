@@ -1,0 +1,12 @@
+Time resolution is 1 ps
+i = 1010, sel = 00, y = 0
+i = 1011, sel = 01, y = 1
+i = 1110, sel = 10, y = 1
+i = 1000, sel = 11, y = 1
+i = 1111, sel = 00, y = 1
+i = 0110, sel = 01, y = 1
+i = 0010, sel = 10, y = 0
+i = 0011, sel = 11, y = 0
+i = 0100, sel = 00, y = 0
+i = 0000, sel = 00, y = 0
+$finish called at time : 20 ns : File "/home/user/Desktop/Vivado/Combinational circuits/4x1 Mux using 2x1 Mux/4x1 Mux using 2x1 Mux.srcs/sim_1/new/mux_4x1_tb.v" Line 46

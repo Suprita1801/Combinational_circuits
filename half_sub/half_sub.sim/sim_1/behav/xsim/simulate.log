@@ -1,0 +1,6 @@
+Time resolution is 1 ps
+a = 0, b  = 0, diff = 0 , borrow = 0
+a = 0, b  = 1, diff = 1 , borrow = 1
+a = 1, b  = 0, diff = 1 , borrow = 0
+a = 1, b  = 1, diff = 0 , borrow = 0
+$finish called at time : 40 ns : File "/home/user/Desktop/Vivado/Combinational circuits/half_sub/half_sub.srcs/sim_1/new/half_sub_tb.v" Line 41

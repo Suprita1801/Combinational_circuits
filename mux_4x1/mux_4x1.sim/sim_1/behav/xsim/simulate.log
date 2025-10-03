@@ -1,0 +1,7 @@
+Time resolution is 1 ps
+i = 0000, sel = 00, y = 0
+i = 0011, sel = 10, y = 0
+i = 1010, sel = 01, y = 1
+i = 1100, sel = 11, y = 1
+i = 1111, sel = 11, y = 1
+$finish called at time : 25 ns : File "/home/user/Desktop/Vivado/Combinational circuits/mux_4x1/mux_4x1.srcs/sim_1/new/mux_4x1.v" Line 40

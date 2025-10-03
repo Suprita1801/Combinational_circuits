@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:34:34 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Wed Oct  1 16:29:56 2025
+# Process ID         : 41121
+# Current directory  : /home/user/Vivado/half_adder/half_adder.runs/impl_1
+# Command line       : vivado -log half_add.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source half_add.tcl -notrace
+# Log file           : /home/user/Vivado/half_adder/half_adder.runs/impl_1/half_add.vdi
+# Journal file       : /home/user/Vivado/half_adder/half_adder.runs/impl_1/vivado.jou
+# Running On         : Itachi
+# Platform           : Ubuntu
+# Operating System   : Ubuntu 24.04.2 LTS
+# Processor Detail   : 13th Gen Intel(R) Core(TM) i7-1360P
+# CPU Frequency      : 546.794 MHz
+# CPU Physical cores : 12
+# CPU Logical cores  : 16
+# Host memory        : 16438 MB
+# Swap memory        : 4294 MB
+# Total Virtual      : 20733 MB
+# Available Virtual  : 12127 MB
+#-----------------------------------------------------------
+source half_add.tcl -notrace

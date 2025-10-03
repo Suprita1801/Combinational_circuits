@@ -1,0 +1,8 @@
+Time resolution is 1 ps
+a = 0000, b = 0000, c = 0, sum = 0000, cout = 0
+a = 0011, b = 1100, c = 0, sum = 1111, cout = 0
+a = 1010, b = 0101, c = 0, sum = 1111, cout = 0
+a = 0110, b = 1001, c = 0, sum = 1111, cout = 0
+a = 0001, b = 1000, c = 0, sum = 1001, cout = 0
+a = 0100, b = 0110, c = 0, sum = 1010, cout = 0
+$finish called at time : 24 ns : File "/home/user/Desktop/Vivado/Combinational circuits/Ripple_Carry_adder/Ripple_Carry_adder.srcs/sim_1/new/rca_tb.v" Line 44

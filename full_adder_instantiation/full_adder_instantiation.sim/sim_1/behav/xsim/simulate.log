@@ -1,0 +1,3 @@
+Time resolution is 1 ps
+Time	 a b cin | sum cout
+$finish called at time : 40 ns : File "/home/user/Vivado/full_adder_instantiation/full_adder_instantiation.srcs/sim_1/new/full_add_tb.v" Line 46

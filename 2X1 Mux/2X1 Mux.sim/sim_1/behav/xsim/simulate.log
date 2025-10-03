@@ -1,0 +1,8 @@
+Time resolution is 1 ps
+i = 00, s = 0, y=0
+i = 01, s = 0, y=1
+i = 10, s = 1, y=1
+i = 11, s = 0, y=1
+i = 11, s = 1, y=1
+i = 00, s = 1, y=0
+$finish called at time : 30 ns : File "/home/user/Desktop/Vivado/Combinational circuits/2X1 Mux/2X1 Mux.srcs/sim_1/new/mux_2x1_tb.v" Line 41

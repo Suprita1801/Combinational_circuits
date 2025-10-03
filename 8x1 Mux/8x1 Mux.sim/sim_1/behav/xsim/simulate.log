@@ -1,0 +1,7 @@
+Time resolution is 1 ps
+i = 00000000, sel = 000, y = 0
+i = 00111100, sel = 100, y = 1
+i = 01100100, sel = 110, y = 1
+i = 10000010, sel = 111, y = 1
+i = 11111111, sel = 000, y = 1
+$finish called at time : 25 ns : File "/home/user/Desktop/Vivado/Combinational circuits/8x1 Mux/8x1 Mux.srcs/sim_1/new/mux_8x1_tb.v" Line 41

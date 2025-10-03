@@ -1,0 +1,8 @@
+0.7
+2020.2
+Nov  8 2024
+22:36:55
+/home/user/Desktop/Vivado/Combinational_circuits/16X1 Mux using 4x1/16X1 Mux using 4x1.sim/sim_1/behav/xsim/glbl.v,1724786425,verilog,,,,glbl,,,,,,,,
+/home/user/Desktop/Vivado/Combinational_circuits/16X1 Mux using 4x1/16X1 Mux using 4x1.srcs/sim_1/new/mux_16x1_tb.v,1759501408,verilog,,,,mux_16x1_tb,,,,,,,,
+/home/user/Desktop/Vivado/Combinational_circuits/16X1 Mux using 4x1/16X1 Mux using 4x1.srcs/sources_1/imports/new/mux_4x1.v,1759489397,verilog,,/home/user/Desktop/Vivado/Combinational_circuits/16X1 Mux using 4x1/16X1 Mux using 4x1.srcs/sim_1/new/mux_16x1_tb.v,,mux_2x1;mux_4x1,,,,,,,,
+/home/user/Desktop/Vivado/Combinational_circuits/16X1 Mux using 4x1/16X1 Mux using 4x1.srcs/sources_1/new/mux_16x1.v,1759501446,verilog,,/home/user/Desktop/Vivado/Combinational_circuits/16X1 Mux using 4x1/16X1 Mux using 4x1.srcs/sources_1/imports/new/mux_4x1.v,,mux_16x1,,,,,,,,

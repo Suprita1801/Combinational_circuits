@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../16x1 mux using 2x1 Mux.srcs/sources_1/new/mux_16x1.v" \
+"../../../../16x1 mux using 2x1 Mux.srcs/sources_1/new/mux_2x1.v" \
+"../../../../16x1 mux using 2x1 Mux.srcs/sim_1/new/mux_16x1_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

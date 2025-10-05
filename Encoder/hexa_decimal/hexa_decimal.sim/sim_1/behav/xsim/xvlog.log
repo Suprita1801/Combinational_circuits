@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/user/Desktop/Vivado/Combinational_circuits/Encoder/hexa_decimal/hexa_decimal.srcs/sources_1/new/hex_binary.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module hex_binary
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/user/Desktop/Vivado/Combinational_circuits/Encoder/hexa_decimal/hexa_decimal.srcs/sim_1/new/hex_binary_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module hex_binary_tb

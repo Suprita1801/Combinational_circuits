@@ -1,0 +1,7 @@
+Time resolution is 1 ps
+Time = 0 | i = 0000000000 | y = 0000
+Time = 5000 | i = 0000000100 | y = 0010
+Time = 10000 | i = 0000000101 | y = 0010
+Time = 15000 | i = 0000000111 | y = 0011
+Time = 20000 | i = 0110001001 | y = 1111
+$finish called at time : 25 ns : File "/home/user/Desktop/Vivado/Combinational_circuits/Encoder/decimal_to_binary_encoder/decimal_to_binary_encoder.srcs/sim_1/new/decimal_to_bcd_tb.v" Line 40

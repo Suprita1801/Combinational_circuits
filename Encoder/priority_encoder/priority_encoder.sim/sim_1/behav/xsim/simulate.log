@@ -1,0 +1,6 @@
+Time resolution is 1 ps
+Time = 0 | i = 0001 | y = 00
+Time = 5000 | i = 0010 | y = 00
+Time = 10000 | i = 0100 | y = 10
+Time = 15000 | i = 1000 | y = 11
+$finish called at time : 20 ns : File "/home/user/Desktop/Vivado/Combinational_circuits/Encoder/priority_encoder/priority_encoder.srcs/sim_1/new/priority_encoder_tb.v" Line 39

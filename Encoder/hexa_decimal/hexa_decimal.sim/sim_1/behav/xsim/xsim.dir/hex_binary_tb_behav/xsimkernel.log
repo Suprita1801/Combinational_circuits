@@ -1,0 +1,4 @@
+Running: xsim.dir/hex_binary_tb_behav/xsimk -simmode gui -wdb hex_binary_tb_behav.wdb -simrunnum 0 -socket 49235
+Design successfully loaded
+Design Loading Memory Usage: 180316 KB (Peak: 180372 KB)
+Design Loading CPU Usage: 1620 ms

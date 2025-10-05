@@ -1,0 +1,6 @@
+Time resolution is 1 ps
+Time = 0 | i = 0001 | y = 00
+Time = 5000 | i = 0010 | y = 01
+Time = 10000 | i = 0100 | y = 10
+Time = 15000 | i = 1000 | y = 11
+$finish called at time : 20 ns : File "/home/user/Desktop/Vivado/Combinational_circuits/Encoder/enc_4x2/enc_4x2.srcs/sim_1/new/enc_4x2_tb.v" Line 39

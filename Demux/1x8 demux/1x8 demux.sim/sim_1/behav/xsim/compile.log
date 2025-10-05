@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/user/Desktop/Vivado/Combinational_circuits/1x8 demux/1x8 demux.srcs/sources_1/new/1x8_demux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module demux_1x8
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/user/Desktop/Vivado/Combinational_circuits/1x8 demux/1x8 demux.srcs/sim_1/new/demux_1x8_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module demux_1x8_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/user/Desktop/Vivado/Combinational_circuits/1x8 demux/1x8 demux.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

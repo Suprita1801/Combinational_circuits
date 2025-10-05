@@ -1,0 +1,9 @@
+0.7
+2020.2
+Nov  8 2024
+22:36:55
+/home/user/Desktop/Vivado/Combinational_circuits/1x8_demux using 1x4_demux/1x8_demux using 1x4_demux.sim/sim_1/behav/xsim/glbl.v,1724786425,verilog,,,,glbl,,,,,,,,
+/home/user/Desktop/Vivado/Combinational_circuits/1x8_demux using 1x4_demux/1x8_demux using 1x4_demux.srcs/sim_1/new/demux_1x8_tb.v,1759643523,verilog,,,,demux_1x8_tb,,,,,,,,
+/home/user/Desktop/Vivado/Combinational_circuits/1x8_demux using 1x4_demux/1x8_demux using 1x4_demux.srcs/sources_1/new/demux_1x2.v,1759642841,verilog,,/home/user/Desktop/Vivado/Combinational_circuits/1x8_demux using 1x4_demux/1x8_demux using 1x4_demux.srcs/sources_1/new/demux_1x4.v,,demux_1x2,,,,,,,,
+/home/user/Desktop/Vivado/Combinational_circuits/1x8_demux using 1x4_demux/1x8_demux using 1x4_demux.srcs/sources_1/new/demux_1x4.v,1759642643,verilog,,/home/user/Desktop/Vivado/Combinational_circuits/1x8_demux using 1x4_demux/1x8_demux using 1x4_demux.srcs/sources_1/new/demux_1x8.v,,demux_1x4,,,,,,,,
+/home/user/Desktop/Vivado/Combinational_circuits/1x8_demux using 1x4_demux/1x8_demux using 1x4_demux.srcs/sources_1/new/demux_1x8.v,1759643774,verilog,,/home/user/Desktop/Vivado/Combinational_circuits/1x8_demux using 1x4_demux/1x8_demux using 1x4_demux.srcs/sim_1/new/demux_1x8_tb.v,,demux_1x8,,,,,,,,
